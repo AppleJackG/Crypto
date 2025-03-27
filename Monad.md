@@ -1,1 +1,4 @@
-
+- [Talentum x Monad](https://monad.talentum.id/)
+- [Dusted](https://www.dusted.app/rewards)
+- [Офф. сайт](https://testnet.monad.xyz/)
+- [AICraft](https://aicraft.fun/projects/fizen?ref=5FOIIIOADW)
