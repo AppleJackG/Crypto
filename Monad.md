@@ -9,10 +9,11 @@
  6. [Fantasy Monad](https://monad.fantasy.top/)
 
 ## Sometimes
- 1. [aPriori](https://stake.apr.io/faucet)
+ 1. [aPriori](https://stake.apr.io/faucet) - стейк
  2. [March Madness](https://app.levr.bet/march-madness/pregame)
  3. [Nad Fun](https://testnet.nad.fun/)
- 4. [Nad Name Service](https://app.nad.domains/) 
+ 4. [Nad Name Service](https://app.nad.domains/)
+ 5. [Owlto](https://owlto.finance/) - деплой контракта
 
 ## One-time
  1. [L3 Quest](https://app.layer3.xyz/quests/monad-explorer-onchaingm)
