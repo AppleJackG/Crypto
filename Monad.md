@@ -1,3 +1,4 @@
+
  
 # Monad
 ## Daily
@@ -35,10 +36,14 @@
  17. Покупать и создать мемкоины на [Xlmeme](https://alpha-testnet.xlmeme.com/monad)
  18. Торги на [Crystal](https://app.crystal.exchange/swap)
  19. Свапы [Pancakeswap](https://pancakeswap.finance/swap)
+ 20. [Atlantis](https://app.atlantisdex.xyz/faucet) - фаусет, свапы, пулы
+ 21. [Ambient](https://monad.ambient.finance/) - свапы, пулы
+ 22. [Nabla](https://app.nabla.fi/pools) - свапы, пулы
+ 23. [Clober](https://alpha.clober.io/trade?chain=10143) - свапы, пулы
 
 
 
-### Curvance
+### [Curvance](https://monad.curvance.com/monad)
  1. Жмем на «Faucet», затем «CLAIM ALL» и клеймим тестовые токены ([скрин](https://ibb.co/s7h32y9))
 Ждем пару минут зачисления токенов
 2. Жмем на колокольчик и переходим на второе задание ([скрин](https://ibb.co/7NLjQkhT))
