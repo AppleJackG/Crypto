@@ -40,6 +40,9 @@
  21. [Ambient](https://monad.ambient.finance/) - свапы, пулы
  22. [Nabla](https://app.nabla.fi/pools) - свапы, пулы
  23. [Clober](https://alpha.clober.io/trade?chain=10143) - свапы, пулы
+ 24. NFT на Nfts2me: [1](https://cosmic-antonprofit.testnet.nfts2.me/), [2](https://profit-mafia.testnet.nfts2.me/), [3](https://creative-magic-monad.testnet.nfts2.me/)
+ 25. [Pandaria](https://pandaria.lfj.gg/) - свапы, пулы
+ 26. [Pandaria Tikenmill](https://pandaria.tokenmill.xyz/) - мемкоины
 
 
 
