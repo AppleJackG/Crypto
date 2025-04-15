@@ -43,6 +43,7 @@
  24. NFT на Nfts2me: [1](https://cosmic-antonprofit.testnet.nfts2.me/), [2](https://profit-mafia.testnet.nfts2.me/), [3](https://creative-magic-monad.testnet.nfts2.me/)
  25. [Pandaria](https://pandaria.lfj.gg/) - свапы, пулы
  26. [Pandaria Tikenmill](https://pandaria.tokenmill.xyz/) - мемкоины
+ 27. [Contracts Mintair](https://contracts.mintair.xyz/) - деплой контрактов
 
 
 
