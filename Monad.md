@@ -44,6 +44,9 @@
  25. [Pandaria](https://pandaria.lfj.gg/) - свапы, пулы
  26. [Pandaria Tikenmill](https://pandaria.tokenmill.xyz/) - мемкоины
  27. [Contracts Mintair](https://contracts.mintair.xyz/) - деплой контрактов
+ 28. [Timeswap](https://app.timeswap.io/markets?chainId=10143)
+ 29. [Zona](https://app.zona.finance/trade) - прогнозы валют
+ 30. [Shmonad](https://shmonad.xyz/) - стейк
 
 
 
