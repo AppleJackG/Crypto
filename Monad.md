@@ -47,6 +47,8 @@
  28. [Timeswap](https://app.timeswap.io/markets?chainId=10143)
  29. [Zona](https://app.zona.finance/trade) - прогнозы валют
  30. [Shmonad](https://shmonad.xyz/) - стейк
+ 31. [Monad Tools](https://www.monad.tools/) - можно создать нфт или токен
+ 32. [ZNS Connect](https://zns.bio/search) - домен
 
 
 
