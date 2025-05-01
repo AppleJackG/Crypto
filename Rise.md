@@ -4,7 +4,9 @@
  - [Создать и заминтить нфт](https://nfts2me.com/app/rise-testnet/)
  - Депы и займы на [Inafiri](https://www.inarifi.com/?marketName=proto_inari_rise)
  - Свапы и ликвидность на [GasPump](https://gaspump.network/swap)
- - [Свапы](https://rise.clober.io/trade?chain=11155931)
+ - [Clober](https://rise.clober.io/trade?chain=11155931) - свапы
  - Игра [For The Kingdom](https://forthekingdom.xyz/game)
+ - Ежедневные GM [OnChainGM](https://onchaingm.com/)
+ - NFT маркетплейс [Veloxr](https://veloxr.xyz/)
  
  Другие дапки  на [офф. сайте](https://portal.risechain.com/apps)
