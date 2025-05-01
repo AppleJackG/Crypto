@@ -49,6 +49,7 @@
  30. [Shmonad](https://shmonad.xyz/) - стейк
  31. [Monad Tools](https://www.monad.tools/) - можно создать нфт или токен
  32. [ZNS Connect](https://zns.bio/search) - домен
+ 33. Свапы [Kuru](https://www.kuru.io/swap)
 
 
 
