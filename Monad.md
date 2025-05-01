@@ -50,6 +50,7 @@
  31. [Monad Tools](https://www.monad.tools/) - можно создать нфт или токен
  32. [ZNS Connect](https://zns.bio/search) - домен
  33. Свапы [Kuru](https://www.kuru.io/swap)
+ 34. Какие-то прогнозы на [OLAB](https://app.olab.xyz/home)
 
 
 
