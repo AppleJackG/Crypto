@@ -8,5 +8,6 @@
  - Игра [For The Kingdom](https://forthekingdom.xyz/game)
  - Ежедневные GM [OnChainGM](https://onchaingm.com/)
  - NFT маркетплейс [Veloxr](https://veloxr.xyz/)
+ - NFT на [OmniHub](https://omnihub.xyz/)
  
  Другие дапки  на [офф. сайте](https://portal.risechain.com/apps)
