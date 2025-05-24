@@ -3,6 +3,6 @@
 - [X](https://x.com/inconetwork)
 
 ### Отработка
-- Base Sepolia [Faucet](https://alchemy.com/faucets/base-sepolia) - нужно 0.001 ETH
+- Base Sepolia [Faucet #1](https://alchemy.com/faucets/base-sepolia), [Faucet #2](https://tokentool.bitbond.com/faucet/base-sepolia)
 - [Inco Arcade](https://experiences.inco.org/)
 - Свапы [Comfy Inco](https://comfy.inco.org/)
