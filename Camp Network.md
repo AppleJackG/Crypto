@@ -4,6 +4,5 @@
 - [Discord](https://discord.com/invite/campnetwork)
 
 ### Отработка
+- [Faucet](https://faucet.campnetwork.xyz/) - 3 транзы в мейннете
 - [Сайт тестнета](https://testnet.campnetwork.xyz/)
-
-> Не работает подключение  Para через X
