@@ -19,3 +19,5 @@
 - Unichain
 - Bera
 - Soneium
+
+Выполнять задания в Voyages.
